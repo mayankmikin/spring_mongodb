@@ -8,4 +8,6 @@ Step 5: Add Configuration Class here that class is public class FirstConfigurati
 Step 6: Add Initialization class
 Note : For complete refrence check out this link :
 http://websystique.com/springmvc/spring-4-mvc-helloworld-tutorial-annotation-javaconfig-full-example/
+Spring Secuity link:
+http://websystique.com/springmvc/spring-mvc-4-and-spring-security-4-integration-example/
 
