@@ -25,5 +25,5 @@ NOW HOW TO START A MONGODB on windows :
 5.now run this command : mongod.exe --dbpath X:\test\mongodb\data
 6. TA DAAA....... mongo db is running on port number 27017
 7. here X: is my drive location you have to replace this path with your own.
-If you are still not able to run it u can commit suicide ............. world doesn't needs you anymore .If you still not find it a good reason to die for then other options are you can be whatsapp group admin or run a facebook page and wait for people to criticise you then you can write the names of all the people responsible in your suicide note . DIE DIE DIE.
+If you are still not able to run it u can commit suicide ............. world doesn't needs you anymore .If you still don't find it a good reason to die for then other options are you can be whatsapp group admin or run a facebook page and wait for people to criticise you then you can write the names of all the people responsible in your suicide note . DIE DIE DIE.
   
