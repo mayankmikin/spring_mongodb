@@ -13,3 +13,17 @@ http://websystique.com/springmvc/spring-mvc-4-and-spring-security-4-integration-
 For mongo db with spring data refer this link :
 http://www.baeldung.com/spring-data-mongodb-tutorial
 
+
+
+
+
+NOW HOW TO START A MONGODB on windows :
+1.Download mongo db for windows from here : https://www.mongodb.com/download-center#community
+2. install it and it will be installed in your c drive sometghing like :C:\Program Files\MongoDB\Server\3.4\bin
+3. go to this folder press SHIFT+right click and choose open command window here 
+4. Go to any of your drive create a folder by name test now inside this folder create another folder named mongodb and then inside mongo db create another folder by name data. This data will be your table space location (People from RDBMS background can relate it better)
+5.now run this command : mongod.exe --dbpath X:\test\mongodb\data
+6. TA DAAA....... mongo db is running on port number 27017
+7. here X: is my drive location you have to replace this path with your own.
+If you are still not able to run it u can commit suicide ............. world doesn't needs you anymore .If you still not find it a good reason to die for then other options are you can be whatsapp group admin or run a facebook page and wait for people to criticise you then you can write the names of all the people responsible in your suicide note . DIE DIE DIE.
+  
